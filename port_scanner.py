@@ -53,4 +53,9 @@ Test -> Run Xampp 'start apache service 'jalankan layanan apache dengan memulai 
 Jalankan kode di prompt/linux-cli -> python port_scanner.py 127.0.0.1 80 443
 Port 80: HTTP
 Port 443: HTTP(s)ecure/SSL+TLS
+Third+PartyModule: colorama
+Install Colorama: pip install colorama
+Python Versi (3.8+/Keatas)
+
+Catatan: Jika ada pertanyaan tinggalkan di kolom komentar ... -> "Youtube"(Y) 
 """
