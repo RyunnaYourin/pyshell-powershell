@@ -53,7 +53,7 @@ Clue from(HCKaito_iZumi): -> char buffer[64]; -> 64 Character
 -> so this little bugs from (bad code/coding) that can crashing your program/or the critical thing is -> crash your system (buffer overflow)
 */
 
-/* Change above code a little like down bellow ...
+// Change above code a little like down bellow ...
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -86,7 +86,7 @@ int main(int argc, char **argv) {
 
   exit(0);
 }
-*/
+
 /*
 
 // compile linux(only)-> gcc -o stack-zero stack-zero.c
