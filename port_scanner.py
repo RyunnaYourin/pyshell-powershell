@@ -47,3 +47,10 @@ class net_scanner():
 if __name__ == '__main__':
 	netscan = net_scanner()
 	netscan.port_scanner_init()
+
+"""
+Test -> Run Xampp 'start apache service 'jalankan layanan apache dengan memulai layanan' -> localhost/127.0.0.1'
+Jalankan kode di prompt/linux-cli -> python port_scanner.py 127.0.0.1 80 443
+Port 80: HTTP
+Port 443: HTTP(s)ecure/SSL+TLS
+"""
